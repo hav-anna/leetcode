@@ -11,4 +11,12 @@ A collection of my LeetCode solutions used to practice algorithms, data structur
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hav-anna/leetcode/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/hav-anna/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/hav-anna/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
