@@ -2,24 +2,24 @@ public class Solution {
     public bool IsPalindrome(string s) {
         int pointerA = 0;
         int pointerB = s.Length-1;
-        while(true)
+        while(pointerB > pointerA)
         {
  
-            while (!(pointerB <= pointerA) && !char.IsLetterOrDigit(s[pointerA]))
+            while (pointerB > pointerA && !char.IsLetterOrDigit(s[pointerA]))
             {
                 pointerA++;
             }
-            while (!(pointerB <= pointerA) && !char.IsLetterOrDigit(s[pointerB]))
+            while (pointerB > pointerA && !char.IsLetterOrDigit(s[pointerB]))
             {
                 pointerB--;
             }
-            char ValueA = char.ToLowerInvariant(s[pointerA]);
-            char ValueB = char.ToLowerInvariant(s[pointerB]);
             if(pointerB <= pointerA)
             {
                 return true;
             }
-            if (ValueA==ValueB)
+            char valueA = char.ToLowerInvariant(s[pointerA]);
+            char valueB = char.ToLowerInvariant(s[pointerB]);
+            if (valueA==valueB)
             {
                 pointerA++;
                 pointerB--;
@@ -29,6 +29,6 @@ public class Solution {
                 return false;
             }   
         }
-        
+        return true;        
     }
 }
