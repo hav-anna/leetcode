@@ -1,38 +1,19 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        int[] temp = (int[])nums.Clone();
-        int[] solution= new int[2];
-        int j;
-        Array.Sort(nums);
-        for( int i = 0; i< temp.Length; i ++)
+        Dictionary<int, int> positions = new Dictionary<int, int>();
+        int[] solution = new int[2];
+        for(int i = 0; i < nums.Length; i++)
         {
-            int value = target - temp[i];
-            j = Array.BinarySearch(nums, value);
-            if ( j>=0)
+            int value = nums[i];
+            int x = target-value;
+            if(positions.ContainsKey(x))
             {
-                solution[0]= i;
-                bool t= false;
-                for (int m = 0; m < temp.Length; m ++)
-                {
-                    if( temp[m] == nums[j])
-                    {
-                        if( temp[i] == nums[j])
-                        {
-                            if (t)
-                            {
-                                solution[1]= m;
-                                return solution;
-                            }
-                            t = true;
-                        }
-                        else{
-                        solution[1] = m;
-                        return solution;
-                        }
-                    }
-                }
+                solution[0] = (positions[x]);
+                solution[1] = i;
+                return solution;
             }
+            positions[value] = i;
         }
-        return solution;   
+        return solution;
     }
 }
