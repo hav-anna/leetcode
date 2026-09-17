@@ -18,5 +18,18 @@ A collection of my LeetCode solutions used to practice algorithms, data structur
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/hav-anna/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
