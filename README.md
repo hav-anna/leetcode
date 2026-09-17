@@ -1,5 +1,5 @@
 # leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+A collection of my LeetCode solutions used to practice algorithms, data structures, and problem-solving techniques while tracking my progress over time.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
