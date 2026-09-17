@@ -1,19 +1,16 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         Dictionary<int, int> positions = new Dictionary<int, int>();
-        int[] solution = new int[2];
         for(int i = 0; i < nums.Length; i++)
         {
             int value = nums[i];
-            int x = target-value;
-            if(positions.ContainsKey(x))
+            int complement = target-value;
+            if(positions.TryGetValue(complement, out int index))
             {
-                solution[0] = (positions[x]);
-                solution[1] = i;
-                return solution;
+               return new int[] { index, i };
             }
             positions[value] = i;
         }
-        return solution;
+        return new int[] {};
     }
 }
