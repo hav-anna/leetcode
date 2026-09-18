@@ -32,4 +32,8 @@ A collection of my LeetCode solutions used to practice algorithms, data structur
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/hav-anna/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
