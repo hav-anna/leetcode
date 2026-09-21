@@ -8,6 +8,7 @@ https://leetcode.com/u/AnnaHav/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hav-anna/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0136-single-number](https://github.com/hav-anna/leetcode/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/hav-anna/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -39,4 +40,8 @@ https://leetcode.com/u/AnnaHav/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/hav-anna/leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/hav-anna/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
