@@ -23,6 +23,7 @@ https://leetcode.com/u/AnnaHav/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hav-anna/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/hav-anna/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -40,8 +41,14 @@ https://leetcode.com/u/AnnaHav/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/hav-anna/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/hav-anna/leetcode/tree/main/0136-single-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
