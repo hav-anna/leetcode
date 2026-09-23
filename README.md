@@ -51,4 +51,12 @@ https://leetcode.com/u/AnnaHav/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hav-anna/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hav-anna/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
