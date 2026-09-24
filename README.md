@@ -10,6 +10,7 @@ https://leetcode.com/u/AnnaHav/
 | [0001-two-sum](https://github.com/hav-anna/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/hav-anna/leetcode/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/hav-anna/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hav-anna/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ https://leetcode.com/u/AnnaHav/
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/hav-anna/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/hav-anna/leetcode/tree/main/0067-add-binary/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hav-anna/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
